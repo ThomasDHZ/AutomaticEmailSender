@@ -1,0 +1,7 @@
+{
+  "senderEmail": "",
+  "senderPassword": "",
+  "recipientEmail": "",
+  "subject": "Hi there from python script, loading data from json.",
+  "message": "This is an auto email."
+}
