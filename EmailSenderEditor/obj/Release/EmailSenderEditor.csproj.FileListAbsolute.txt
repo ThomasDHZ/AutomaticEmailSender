@@ -1,0 +1,13 @@
+C:\Users\dotha\Documents\GitHub\EmailSenderEditor\EmailSenderEditor\bin\Release\EmailSenderEditor.exe.config
+C:\Users\dotha\Documents\GitHub\EmailSenderEditor\EmailSenderEditor\bin\Release\EmailSenderEditor.exe
+C:\Users\dotha\Documents\GitHub\EmailSenderEditor\EmailSenderEditor\bin\Release\EmailSenderEditor.pdb
+C:\Users\dotha\Documents\GitHub\EmailSenderEditor\EmailSenderEditor\bin\Release\Newtonsoft.Json.dll
+C:\Users\dotha\Documents\GitHub\EmailSenderEditor\EmailSenderEditor\bin\Release\Newtonsoft.Json.xml
+C:\Users\dotha\Documents\GitHub\EmailSenderEditor\EmailSenderEditor\obj\Release\EmailSenderEditor.csproj.AssemblyReference.cache
+C:\Users\dotha\Documents\GitHub\EmailSenderEditor\EmailSenderEditor\obj\Release\EmailSenderEditor.PropertiesForm.resources
+C:\Users\dotha\Documents\GitHub\EmailSenderEditor\EmailSenderEditor\obj\Release\EmailSenderEditor.Properties.Resources.resources
+C:\Users\dotha\Documents\GitHub\EmailSenderEditor\EmailSenderEditor\obj\Release\EmailSenderEditor.csproj.GenerateResource.cache
+C:\Users\dotha\Documents\GitHub\EmailSenderEditor\EmailSenderEditor\obj\Release\EmailSenderEditor.csproj.CoreCompileInputs.cache
+C:\Users\dotha\Documents\GitHub\EmailSenderEditor\EmailSenderEditor\obj\Release\EmailSen.1D3A4D9B.Up2Date
+C:\Users\dotha\Documents\GitHub\EmailSenderEditor\EmailSenderEditor\obj\Release\EmailSenderEditor.exe
+C:\Users\dotha\Documents\GitHub\EmailSenderEditor\EmailSenderEditor\obj\Release\EmailSenderEditor.pdb
