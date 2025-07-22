@@ -1,13 +1,15 @@
-﻿using System;
-using System.Windows.Forms;
-using Newtonsoft.Json;
+﻿using Newtonsoft.Json;
+using System;
+using System.Diagnostics;
 using System.IO;
+using System.Windows.Forms;
 
 namespace EmailSenderEditor
 {
     public partial class PropertiesForm : Form
     {
         private readonly SystemTrayApp trayApp;
+        public static string configPath = $@"{Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData)}\EmailSender\config.json";
 
         public PropertiesForm(SystemTrayApp trayApp)
         {
@@ -16,7 +18,19 @@ namespace EmailSenderEditor
 
             try
             {
-                string jsonContent = File.ReadAllText("..\\..\\config.json");
+                string pythonExe = Path.Combine(Application.StartupPath, "ConfigWriter.exe");
+                string pythonScript = Path.Combine(Application.StartupPath, "ConfigWriter.py");
+                string scriptArguments = $@"{Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData)}\EmailSender\config.json";
+                ScriptRunner.RunEmailScript(pythonExe, pythonScript, scriptArguments, true);
+
+                if (!File.Exists(configPath))
+                {
+                    File.AppendAllText("debug.log", $"{DateTime.Now}: config.json not found at: {configPath}\n");
+                    MessageBox.Show($"config.json not found at: {configPath}", "Error");
+                    return;
+                }
+
+                string jsonContent = File.ReadAllText(configPath);
                 JsonEmailModel model = JsonConvert.DeserializeObject<JsonEmailModel>(jsonContent);
 
                 SenderEmailText.Text = model.senderEmail;
@@ -29,6 +43,7 @@ namespace EmailSenderEditor
             }
             catch (Exception ex)
             {
+                File.AppendAllText("debug.log", $"{DateTime.Now}: Error loading config: {ex.Message}\n");
                 MessageBox.Show("An error occurred: " + ex.Message, "Error");
             }
 
@@ -53,10 +68,37 @@ namespace EmailSenderEditor
 
         private void RunEmailScript_Click(object sender, EventArgs e)
         {
-            trayApp.RunEmailScript();
+            try
+            {
+                UpdateEmailConfigSettings();
+                string pythonExe = Path.Combine(Application.StartupPath, "EmailSender.exe");
+                string pythonScript = Path.Combine(Application.StartupPath, "EmailSender.py");
+                string scriptArguments = $@"{Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData)}\EmailSender\config.json";
+                ScriptRunner.RunEmailScript(pythonExe, pythonScript, scriptArguments);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
         }
 
         private void UpdateEmailConfig_Click(object sender, EventArgs e)
+        {
+            UpdateEmailConfigSettings();
+            MessageBox.Show("Message Settings Updated.", "Success");
+        }
+
+        private void ApiKeyText_Enter(object sender, EventArgs e)
+        {
+            ApiKeyText.UseSystemPasswordChar = false;
+        }
+
+        private void ApiKeyText_Leave(object sender, EventArgs e)
+        {
+            ApiKeyText.UseSystemPasswordChar = true;
+        }
+
+        private void UpdateEmailConfigSettings()
         {
             try
             {
@@ -68,23 +110,13 @@ namespace EmailSenderEditor
                     subject = SubjectText.Text,
                     message = MessageText.Text
                 });
-                File.WriteAllText("..\\..\\config.json", jsonContent);
-                MessageBox.Show("Message Settings Updated.", "Success");
+                File.WriteAllText(configPath, jsonContent);
             }
             catch (Exception ex)
             {
+                File.AppendAllText("debug.log", $"{DateTime.Now}: Error saving config: {ex.Message}\n");
                 MessageBox.Show("An error occurred: " + ex.Message, "Error");
             }
-        }
-
-        private void ApiKeyText_Enter(object sender, EventArgs e)
-        {
-            ApiKeyText.UseSystemPasswordChar = false;
-        }
-
-        private void ApiKeyText_Leave(object sender, EventArgs e)
-        {
-            ApiKeyText.UseSystemPasswordChar = true;
         }
     }
 }

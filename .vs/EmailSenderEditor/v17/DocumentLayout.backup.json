@@ -3,15 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\dotha\\Documents\\GitHub\\C--Users-dotha-Documents-GitHub-AutomaticEmailSender\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{57853197-0491-4766-9B4D-7FFDB3C14F24}|EmailSenderEditor\\EmailSenderEditor.csproj|c:\\users\\dotha\\documents\\github\\c--users-dotha-documents-github-automaticemailsender\\emailsendereditor\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{57853197-0491-4766-9B4D-7FFDB3C14F24}|EmailSenderEditor\\EmailSenderEditor.csproj|solutionrelative:emailsendereditor\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57853197-0491-4766-9B4D-7FFDB3C14F24}|EmailSenderEditor\\EmailSenderEditor.csproj|C:\\Users\\dotha\\Documents\\GitHub\\C--Users-dotha-Documents-GitHub-AutomaticEmailSender\\emailsendereditor\\systemtrayapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57853197-0491-4766-9B4D-7FFDB3C14F24}|EmailSenderEditor\\EmailSenderEditor.csproj|solutionrelative:emailsendereditor\\systemtrayapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57853197-0491-4766-9B4D-7FFDB3C14F24}|EmailSenderEditor\\EmailSenderEditor.csproj|C:\\Users\\dotha\\Documents\\GitHub\\C--Users-dotha-Documents-GitHub-AutomaticEmailSender\\emailsendereditor\\propertiesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57853197-0491-4766-9B4D-7FFDB3C14F24}|EmailSenderEditor\\EmailSenderEditor.csproj|c:\\users\\dotha\\documents\\github\\c--users-dotha-documents-github-automaticemailsender\\emailsendereditor\\propertiesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57853197-0491-4766-9B4D-7FFDB3C14F24}|EmailSenderEditor\\EmailSenderEditor.csproj|solutionrelative:emailsendereditor\\propertiesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -19,8 +11,12 @@
       "RelativeMoniker": "D:0:0:{57853197-0491-4766-9B4D-7FFDB3C14F24}|EmailSenderEditor\\EmailSenderEditor.csproj|solutionrelative:emailsendereditor\\propertiesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57853197-0491-4766-9B4D-7FFDB3C14F24}|EmailSenderEditor\\EmailSenderEditor.csproj|C:\\Users\\dotha\\Documents\\GitHub\\C--Users-dotha-Documents-GitHub-AutomaticEmailSender\\emailsendereditor\\models\\configmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57853197-0491-4766-9B4D-7FFDB3C14F24}|EmailSenderEditor\\EmailSenderEditor.csproj|solutionrelative:emailsendereditor\\models\\configmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57853197-0491-4766-9B4D-7FFDB3C14F24}|EmailSenderEditor\\EmailSenderEditor.csproj|C:\\Users\\dotha\\Documents\\GitHub\\C--Users-dotha-Documents-GitHub-AutomaticEmailSender\\emailsendereditor\\systemtrayapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57853197-0491-4766-9B4D-7FFDB3C14F24}|EmailSenderEditor\\EmailSenderEditor.csproj|solutionrelative:emailsendereditor\\systemtrayapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57853197-0491-4766-9B4D-7FFDB3C14F24}|EmailSenderEditor\\EmailSenderEditor.csproj|C:\\Users\\dotha\\Documents\\GitHub\\C--Users-dotha-Documents-GitHub-AutomaticEmailSender\\emailsendereditor\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57853197-0491-4766-9B4D-7FFDB3C14F24}|EmailSenderEditor\\EmailSenderEditor.csproj|solutionrelative:emailsendereditor\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57853197-0491-4766-9B4D-7FFDB3C14F24}|EmailSenderEditor\\EmailSenderEditor.csproj|C:\\Users\\dotha\\Documents\\GitHub\\C--Users-dotha-Documents-GitHub-AutomaticEmailSender\\emailsendereditor\\models\\jsonemailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,6 +37,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{57853197-0491-4766-9B4D-7FFDB3C14F24}|EmailSenderEditor\\EmailSenderEditor.csproj|C:\\Users\\dotha\\Documents\\GitHub\\C--Users-dotha-Documents-GitHub-AutomaticEmailSender\\emailsendereditor\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{57853197-0491-4766-9B4D-7FFDB3C14F24}|EmailSenderEditor\\EmailSenderEditor.csproj|solutionrelative:emailsendereditor\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dotha\\Documents\\GitHub\\C--Users-dotha-Documents-GitHub-AutomaticEmailSender\\EmailSenderEditor\\Models\\ConfigModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmailSenderEditor\\Models\\ConfigModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 2186,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "ConfigModel.cs",
               "DocumentMoniker": "C:\\Users\\dotha\\Documents\\GitHub\\C--Users-dotha-Documents-GitHub-AutomaticEmailSender\\EmailSenderEditor\\Models\\ConfigModel.cs",
               "RelativeDocumentMoniker": "EmailSenderEditor\\Models\\ConfigModel.cs",
@@ -78,44 +78,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SystemTrayApp.cs",
               "DocumentMoniker": "C:\\Users\\dotha\\Documents\\GitHub\\C--Users-dotha-Documents-GitHub-AutomaticEmailSender\\EmailSenderEditor\\SystemTrayApp.cs",
               "RelativeDocumentMoniker": "EmailSenderEditor\\SystemTrayApp.cs",
               "ToolTip": "C:\\Users\\dotha\\Documents\\GitHub\\C--Users-dotha-Documents-GitHub-AutomaticEmailSender\\EmailSenderEditor\\SystemTrayApp.cs",
               "RelativeToolTip": "EmailSenderEditor\\SystemTrayApp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBYAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-09T21:05:38.71Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "config.json",
               "DocumentMoniker": "C:\\Users\\dotha\\Documents\\GitHub\\C--Users-dotha-Documents-GitHub-AutomaticEmailSender\\EmailSenderEditor\\config.json",
               "RelativeDocumentMoniker": "EmailSenderEditor\\config.json",
               "ToolTip": "C:\\Users\\dotha\\Documents\\GitHub\\C--Users-dotha-Documents-GitHub-AutomaticEmailSender\\EmailSenderEditor\\config.json",
               "RelativeToolTip": "EmailSenderEditor\\config.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-08T23:42:37.143Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T23:42:37.143Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "PropertiesForm.cs",
               "DocumentMoniker": "C:\\Users\\dotha\\Documents\\GitHub\\C--Users-dotha-Documents-GitHub-AutomaticEmailSender\\EmailSenderEditor\\PropertiesForm.cs",
               "RelativeDocumentMoniker": "EmailSenderEditor\\PropertiesForm.cs",
               "ToolTip": "C:\\Users\\dotha\\Documents\\GitHub\\C--Users-dotha-Documents-GitHub-AutomaticEmailSender\\EmailSenderEditor\\PropertiesForm.cs",
               "RelativeToolTip": "EmailSenderEditor\\PropertiesForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T23:35:13.892Z"
+              "WhenOpened": "2025-07-08T23:35:13.892Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "packages.config",
               "DocumentMoniker": "C:\\Users\\dotha\\Documents\\GitHub\\C--Users-dotha-Documents-GitHub-AutomaticEmailSender\\EmailSenderEditor\\packages.config",
               "RelativeDocumentMoniker": "EmailSenderEditor\\packages.config",
@@ -127,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "JsonEmailModel.cs",
               "DocumentMoniker": "C:\\Users\\dotha\\Documents\\GitHub\\C--Users-dotha-Documents-GitHub-AutomaticEmailSender\\EmailSenderEditor\\Models\\JsonEmailModel.cs",
               "RelativeDocumentMoniker": "EmailSenderEditor\\Models\\JsonEmailModel.cs",
@@ -139,18 +139,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "PropertiesForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\dotha\\Documents\\GitHub\\C--Users-dotha-Documents-GitHub-AutomaticEmailSender\\EmailSenderEditor\\PropertiesForm.cs",
               "RelativeDocumentMoniker": "EmailSenderEditor\\PropertiesForm.cs",
-              "ToolTip": "C:\\Users\\dotha\\Documents\\GitHub\\EmailSenderEditor\\EmailSenderEditor\\PropertiesForm.cs [Design]",
-              "RelativeToolTip": "..\\EmailSenderEditor\\EmailSenderEditor\\PropertiesForm.cs [Design]",
+              "ToolTip": "C:\\Users\\dotha\\Documents\\GitHub\\C--Users-dotha-Documents-GitHub-AutomaticEmailSender\\EmailSenderEditor\\PropertiesForm.cs [Design]",
+              "RelativeToolTip": "EmailSenderEditor\\PropertiesForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-08T20:54:43.473Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\dotha\\Documents\\GitHub\\C--Users-dotha-Documents-GitHub-AutomaticEmailSender\\EmailSenderEditor\\App.config",
               "RelativeDocumentMoniker": "EmailSenderEditor\\App.config",
@@ -162,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "PropertiesForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\dotha\\Documents\\GitHub\\C--Users-dotha-Documents-GitHub-AutomaticEmailSender\\EmailSenderEditor\\PropertiesForm.Designer.cs",
               "RelativeDocumentMoniker": "EmailSenderEditor\\PropertiesForm.Designer.cs",
@@ -174,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dotha\\Documents\\GitHub\\C--Users-dotha-Documents-GitHub-AutomaticEmailSender\\EmailSenderEditor\\Program.cs",
               "RelativeDocumentMoniker": "EmailSenderEditor\\Program.cs",

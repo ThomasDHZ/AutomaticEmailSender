@@ -22,9 +22,9 @@ def sendEmail(senderEmail, senderPassword, recipientEmail, subject, message):
         print(error_msg)
         ctypes.windll.user32.MessageBoxW(0, error_msg, "Failed to send message.", 0)
 
-def loadJsonData():
+def loadJsonData(config_path):
     try:
-        with open('config.json', 'r') as file:
+        with open(config_path, 'r') as file:
             config = json.load(file)
         senderEmail = config['senderEmail']
         senderPassword = config['senderPassword']
@@ -40,4 +40,9 @@ def loadJsonData():
         print(f"Error: Missing key {e} in config.json")
 
 if __name__ == '__main__':
-    loadJsonData()
+    config_path = 'config.json'
+    if len(sys.argv) > 1:
+        config_path = sys.argv[1]
+    else:
+        print("No arguments provided.")
+    loadJsonData(config_path)

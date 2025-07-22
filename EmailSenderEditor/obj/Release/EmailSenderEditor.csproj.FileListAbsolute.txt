@@ -11,3 +11,4 @@ C:\Users\dotha\Documents\GitHub\EmailSenderEditor\EmailSenderEditor\obj\Release\
 C:\Users\dotha\Documents\GitHub\EmailSenderEditor\EmailSenderEditor\obj\Release\EmailSen.1D3A4D9B.Up2Date
 C:\Users\dotha\Documents\GitHub\EmailSenderEditor\EmailSenderEditor\obj\Release\EmailSenderEditor.exe
 C:\Users\dotha\Documents\GitHub\EmailSenderEditor\EmailSenderEditor\obj\Release\EmailSenderEditor.pdb
+C:\Users\dotha\Documents\GitHub\EmailSenderEditor\EmailSenderEditor\obj\Release\EmailSenderEditor.exe.config

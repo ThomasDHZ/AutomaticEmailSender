@@ -11,16 +11,4 @@ C:\Users\dotha\Documents\GitHub\EmailSenderEditor\EmailSenderEditor\obj\Debug\Em
 C:\Users\dotha\Documents\GitHub\EmailSenderEditor\EmailSenderEditor\obj\Debug\EmailSenderEditor.exe
 C:\Users\dotha\Documents\GitHub\EmailSenderEditor\EmailSenderEditor\obj\Debug\EmailSenderEditor.pdb
 C:\Users\dotha\Documents\GitHub\EmailSenderEditor\EmailSenderEditor\bin\Debug\EmailSenderEditor.pdb
-C:\Users\dotha\Documents\GitHub\C--Users-dotha-Documents-GitHub-AutomaticEmailSender\EmailSenderEditor\bin\Debug\EmailSenderEditor.exe.config
-C:\Users\dotha\Documents\GitHub\C--Users-dotha-Documents-GitHub-AutomaticEmailSender\EmailSenderEditor\bin\Debug\EmailSenderEditor.exe
-C:\Users\dotha\Documents\GitHub\C--Users-dotha-Documents-GitHub-AutomaticEmailSender\EmailSenderEditor\bin\Debug\EmailSenderEditor.pdb
-C:\Users\dotha\Documents\GitHub\C--Users-dotha-Documents-GitHub-AutomaticEmailSender\EmailSenderEditor\bin\Debug\Newtonsoft.Json.dll
-C:\Users\dotha\Documents\GitHub\C--Users-dotha-Documents-GitHub-AutomaticEmailSender\EmailSenderEditor\bin\Debug\Newtonsoft.Json.xml
-C:\Users\dotha\Documents\GitHub\C--Users-dotha-Documents-GitHub-AutomaticEmailSender\EmailSenderEditor\obj\Debug\EmailSenderEditor.csproj.AssemblyReference.cache
-C:\Users\dotha\Documents\GitHub\C--Users-dotha-Documents-GitHub-AutomaticEmailSender\EmailSenderEditor\obj\Debug\EmailSenderEditor.PropertiesForm.resources
-C:\Users\dotha\Documents\GitHub\C--Users-dotha-Documents-GitHub-AutomaticEmailSender\EmailSenderEditor\obj\Debug\EmailSenderEditor.Properties.Resources.resources
-C:\Users\dotha\Documents\GitHub\C--Users-dotha-Documents-GitHub-AutomaticEmailSender\EmailSenderEditor\obj\Debug\EmailSenderEditor.csproj.GenerateResource.cache
-C:\Users\dotha\Documents\GitHub\C--Users-dotha-Documents-GitHub-AutomaticEmailSender\EmailSenderEditor\obj\Debug\EmailSenderEditor.csproj.CoreCompileInputs.cache
-C:\Users\dotha\Documents\GitHub\C--Users-dotha-Documents-GitHub-AutomaticEmailSender\EmailSenderEditor\obj\Debug\EmailSen.1D3A4D9B.Up2Date
-C:\Users\dotha\Documents\GitHub\C--Users-dotha-Documents-GitHub-AutomaticEmailSender\EmailSenderEditor\obj\Debug\EmailSenderEditor.exe
-C:\Users\dotha\Documents\GitHub\C--Users-dotha-Documents-GitHub-AutomaticEmailSender\EmailSenderEditor\obj\Debug\EmailSenderEditor.pdb
+C:\Users\dotha\Documents\GitHub\EmailSenderEditor\EmailSenderEditor\obj\Debug\EmailSenderEditor.exe.config
